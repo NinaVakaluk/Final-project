@@ -1,0 +1,15 @@
+/home/nina/Документы/Final work/Zadacha/bin/Debug/net7.0/Zadacha
+/home/nina/Документы/Final work/Zadacha/bin/Debug/net7.0/Zadacha.deps.json
+/home/nina/Документы/Final work/Zadacha/bin/Debug/net7.0/Zadacha.runtimeconfig.json
+/home/nina/Документы/Final work/Zadacha/bin/Debug/net7.0/Zadacha.dll
+/home/nina/Документы/Final work/Zadacha/bin/Debug/net7.0/Zadacha.pdb
+/home/nina/Документы/Final work/Zadacha/obj/Debug/net7.0/Zadacha.csproj.AssemblyReference.cache
+/home/nina/Документы/Final work/Zadacha/obj/Debug/net7.0/Zadacha.GeneratedMSBuildEditorConfig.editorconfig
+/home/nina/Документы/Final work/Zadacha/obj/Debug/net7.0/Zadacha.AssemblyInfoInputs.cache
+/home/nina/Документы/Final work/Zadacha/obj/Debug/net7.0/Zadacha.AssemblyInfo.cs
+/home/nina/Документы/Final work/Zadacha/obj/Debug/net7.0/Zadacha.csproj.CoreCompileInputs.cache
+/home/nina/Документы/Final work/Zadacha/obj/Debug/net7.0/Zadacha.dll
+/home/nina/Документы/Final work/Zadacha/obj/Debug/net7.0/refint/Zadacha.dll
+/home/nina/Документы/Final work/Zadacha/obj/Debug/net7.0/Zadacha.pdb
+/home/nina/Документы/Final work/Zadacha/obj/Debug/net7.0/Zadacha.genruntimeconfig.cache
+/home/nina/Документы/Final work/Zadacha/obj/Debug/net7.0/ref/Zadacha.dll
